@@ -34,7 +34,7 @@ public class EjemplosArrays {
         for (int i = 0; i < elementos.length; i++) {
             System.out.print(elementos[i] + " ");
         }
-
+        System.out.println();
         // b) con el método toString[] de la clase Arrays
         System.out.println("\n" + Arrays.toString(diaslaborales));
 
